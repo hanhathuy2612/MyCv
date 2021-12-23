@@ -94,14 +94,15 @@ body{
     justify-content: space-between;
 }
 .skill-item__title{
-    flex-basis: 20%;
+    flex-basis: 25%;
     align-items: center;
     font-weight: bold;
     font-size: 14px;
     margin-left: 12px;
+    white-space: nowrap;
 }
 .skill-item__evolution{
-    flex-direction: 80%;
+    flex-direction: 75%;
     margin-right: 12px;
 }
 .skill-item__evolution-icon{
